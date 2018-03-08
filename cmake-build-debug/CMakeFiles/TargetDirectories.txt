@@ -1,0 +1,3 @@
+/home/cauan_kms/Desktop/Exercise10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cauan_kms/Desktop/Exercise10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cauan_kms/Desktop/Exercise10/cmake-build-debug/CMakeFiles/Exercise10.dir
